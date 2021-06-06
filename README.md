@@ -1,3 +1,3 @@
 # SANITIZER
 
-## sanitizer.pages.dev
+## https://sanitizer.pages.dev
